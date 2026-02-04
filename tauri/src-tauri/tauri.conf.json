@@ -12,7 +12,8 @@
   "bundle": {
     "active": true,
     "targets": [
-      "app"
+      "app",
+      "dmg"
     ],
     "createUpdaterArtifacts": false,
     "externalBin": [
